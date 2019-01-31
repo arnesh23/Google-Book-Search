@@ -3,13 +3,5 @@
 
 The framework used for this homework are React 
 
-
-
-
-
-
-
-
-
-[Create React App](https://github.com/facebook/create-react-app).
+Here is the app deployed in Heroku. [Google Book Search](https://github.com/facebook/create-react-app).
 
